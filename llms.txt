@@ -22,6 +22,7 @@
 - [Anona](https://alpha-0619.github.io/france-menus/anona/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Ar Men Du](https://alpha-0619.github.io/france-menus/ar-men-du/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Arbane](https://alpha-0619.github.io/france-menus/arbane/): Creative; menu source restaurant published, checked 2026-10-20
+- [Arbore & Sens](https://alpha-0619.github.io/france-menus/arbore-sens/): Modern Cuisine; menu source restaurant published, checked 2026-10-22
 - [Arpège](https://alpha-0619.github.io/france-menus/arpege/): Creative, Vegan; menu source restaurant published, checked 2026-10-20
 - [Astrance](https://alpha-0619.github.io/france-menus/astrance/): Creative; menu source restaurant published, checked 2026-10-20
 - [Au Crocodile](https://alpha-0619.github.io/france-menus/au-crocodile/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
@@ -63,11 +64,13 @@
 - [Ezia](https://alpha-0619.github.io/france-menus/ezia/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Fario](https://alpha-0619.github.io/france-menus/fario/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Le Faventia](https://alpha-0619.github.io/france-menus/faventia/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
+- [FIEF](https://alpha-0619.github.io/france-menus/fief/): Modern Cuisine; menu source restaurant published, checked 2026-10-22
 - [Flaveur](https://alpha-0619.github.io/france-menus/flaveur/): Creative; menu source restaurant published, checked 2026-10-20
 - [Fleur de Pavé](https://alpha-0619.github.io/france-menus/fleur-de-pave/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Flocons de Sel](https://alpha-0619.github.io/france-menus/flocons-de-sel/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Frédéric Doucet](https://alpha-0619.github.io/france-menus/frederic-doucet/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Frédéric Simonin](https://alpha-0619.github.io/france-menus/frederic-simonin/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
+- [Freia](https://alpha-0619.github.io/france-menus/freia/): Creative; menu source restaurant published, checked 2026-10-22
 - [Garrigue](https://alpha-0619.github.io/france-menus/garrigue-ansouis/): Modern Cuisine, Creative; menu source restaurant published, checked 2026-10-20
 - [Gaya par Pierre Gagnaire](https://alpha-0619.github.io/france-menus/gaya-par-pierre-gagnaire/): Modern Cuisine, Fish and Seafood; menu source restaurant published, checked 2026-10-20
 - [Geoélia](https://alpha-0619.github.io/france-menus/geoelia/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
@@ -82,6 +85,7 @@
 - [Hostellerie de la Pointe Saint-Mathieu](https://alpha-0619.github.io/france-menus/hostellerie-de-la-pointe-saint-mathieu/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Hostellerie La Montagne](https://alpha-0619.github.io/france-menus/hostellerie-la-montagne/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Il Carpaccio](https://alpha-0619.github.io/france-menus/il-carpaccio/): Italian; menu source restaurant published, checked 2026-10-20
+- [Ineffable](https://alpha-0619.github.io/france-menus/ineffable/): Modern Cuisine; menu source restaurant published, checked 2026-10-22
 - [Irwin](https://alpha-0619.github.io/france-menus/irwin/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Ithurria](https://alpha-0619.github.io/france-menus/ithurria/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Jacques Faussat](https://alpha-0619.github.io/france-menus/jacques-faussat/): Traditional Cuisine; menu source restaurant published, checked 2026-10-20
@@ -89,6 +93,7 @@
 - [Jean-Marc Pérochon](https://alpha-0619.github.io/france-menus/jean-marc-perochon/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Restaurant Jean Sulpice](https://alpha-0619.github.io/france-menus/jean-sulpice/): Creative; menu source restaurant published, checked 2026-10-20
 - [Jin](https://alpha-0619.github.io/france-menus/jin-paris/): Japanese, Sushi; menu source restaurant published, checked 2026-10-20
+- [JU - Maison de Cuisine](https://alpha-0619.github.io/france-menus/ju-maison-de-cuisine/): Modern Cuisine; menu source restaurant published, checked 2026-10-22
 - [JY'S](https://alpha-0619.github.io/france-menus/jy-s/): Creative; menu source restaurant published, checked 2026-10-20
 - [Kei](https://alpha-0619.github.io/france-menus/kei/): Modern Cuisine, Creative; menu source restaurant published, checked 2026-10-20
 - [L'Abysse Paris](https://alpha-0619.github.io/france-menus/l-abysse-paris/): Japanese, Creative; menu source restaurant published, checked 2026-10-20
@@ -109,6 +114,7 @@
 - [L'Aupiho](https://alpha-0619.github.io/france-menus/l-aupiho-domaine-de-manville/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [L'Écailler](https://alpha-0619.github.io/france-menus/l-ecailler-la-flotte/): Modern Cuisine, Fish and Seafood; menu source restaurant published, checked 2026-10-20
 - [L'Escarbille](https://alpha-0619.github.io/france-menus/l-escarbille/): Classic Cuisine, Modern Cuisine; menu source restaurant published, checked 2026-10-20
+- [L'Étape Dorée](https://alpha-0619.github.io/france-menus/l-etape-doree/): Modern Cuisine; menu source restaurant published, checked 2026-10-22
 - [L'Odas](https://alpha-0619.github.io/france-menus/l-odas/): Creative; menu source restaurant published, checked 2026-10-20
 - [L'Oiseau Blanc](https://alpha-0619.github.io/france-menus/l-oiseau-blanc/): Creative; menu source restaurant published, checked 2026-10-20
 - [L'Or Bleu](https://alpha-0619.github.io/france-menus/l-or-bleu/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
@@ -200,6 +206,7 @@
 - [Le Neuvième Art](https://alpha-0619.github.io/france-menus/le-neuvieme-art/): Creative, Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Le Panoramique - Domaine de la Corniche](https://alpha-0619.github.io/france-menus/le-panoramique-domaine-de-la-corniche/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Le Parc Les Crayères](https://alpha-0619.github.io/france-menus/le-parc-les-crayeres/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
+- [Le Petit Léon](https://alpha-0619.github.io/france-menus/le-petit-leon/): Creative; menu source restaurant published, checked 2026-10-22
 - [Le Petit Nice](https://alpha-0619.github.io/france-menus/le-petit-nice/): Fish and Seafood; menu source restaurant published, checked 2026-10-20
 - [Le Pré Catelan](https://alpha-0619.github.io/france-menus/le-pre-catelan/): Creative, Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Le Pré](https://alpha-0619.github.io/france-menus/le-pre-xavier-beaudiment/): Creative; menu source restaurant published, checked 2026-10-20
@@ -240,6 +247,7 @@
 - [Maison Ronan Kervarrec](https://alpha-0619.github.io/france-menus/maison-ronan-kervarrec/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Maison Rostang](https://alpha-0619.github.io/france-menus/maison-rostang/): Classic Cuisine; menu source restaurant published, checked 2026-10-20
 - [Maison Ruggieri Palais Royal](https://alpha-0619.github.io/france-menus/maison-ruggieri-palais-royal/): Creative; menu source restaurant published, checked 2026-10-20
+- [Mandibule](https://alpha-0619.github.io/france-menus/mandibule/): Modern Cuisine; menu source restaurant published, checked 2026-10-22
 - [Manoir de Lan-Kerellec](https://alpha-0619.github.io/france-menus/manoir-de-lan-kerellec/): Fish and Seafood, Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [Mareluna](https://alpha-0619.github.io/france-menus/mareluna/): Creative; menu source restaurant published, checked 2026-10-20
 - [Marsan par Hélène Darroze](https://alpha-0619.github.io/france-menus/marsan-par-helene-darroze/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
@@ -301,4 +309,5 @@
 - [Vous](https://alpha-0619.github.io/france-menus/vous-megeve/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
 - [William Frachot](https://alpha-0619.github.io/france-menus/william-frachot/): Modern Cuisine, Creative; menu source restaurant published, checked 2026-10-20
 - [Yoshinori](https://alpha-0619.github.io/france-menus/yoshinori/): Modern Cuisine; menu source restaurant published, checked 2026-10-20
+- [Yozora](https://alpha-0619.github.io/france-menus/yozora/): Creative; menu source restaurant published, checked 2026-10-22
 - [Zostera](https://alpha-0619.github.io/france-menus/zostera/): Creative; menu source restaurant published, checked 2026-10-20
