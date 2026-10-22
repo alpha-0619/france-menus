@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alpha-0619.github.io/france-menus/sitemap.xml
